@@ -2,9 +2,22 @@
 
 <html>
 <head>
+	<meta charset="UTF-8"/>
 	<title>Samuel Stulman</title>
+	<script src="/static/login.js" type="text/javascript"></script>
 </head>
 <body>
-	<h1>This is a test!</h1>
+	<div class="container">
+		<div class="main">
+			<h2>Log In</h2>
+			<form id="form-id" method="post" name="myform">
+				<label>Username: </label>
+				<input type="text" name="username" id="username"/>
+				<label>Password: </label>
+				<input type="text" name="password" id="password"/>
+				<input type="button" value="Login" id="Submit" onclick="validate()"/>
+			</form>
+		</div>
+	</div>
 </body>
 </html>
