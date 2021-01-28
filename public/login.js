@@ -4,7 +4,7 @@ function validate(){
     var password = document.getElementById("password").value;
     alert(password);
 	if(username == "sam" && password == "sam"){
-		window.location.href = "/static/main.html";
+		window.location.href = "/public/main.html";
 		return false;
 	}
 	else{
