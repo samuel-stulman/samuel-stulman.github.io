@@ -56,8 +56,11 @@ li{
 
 .landing-text{
     font-family:'Courier New', Courier, monospace;
-    font-size: 42rem;
+    font-size: 3rem;
     font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 /*footer*/
