@@ -61,18 +61,30 @@ li{
     font-size: 3rem;
     font-weight: 400;
     background-color: #243665;
+    padding-top: 100px;
 }
 
 h1{
     display: flex;
     justify-content: center;
     align-content: center;
+    text-align: center;
     color: #8BD8BD;
 }
+
+h5{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: white;
+}
+
 h6 {
     display: flex;
     justify-content: center;
     align-content: center;
+    text-align: center;
     color: white;
 }
 
