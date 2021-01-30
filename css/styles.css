@@ -15,6 +15,7 @@ html{
 body{
     width: 100%;
     height: 100%;
+    background-color: #243665;
 }
 
 a{
@@ -59,18 +60,20 @@ li{
     font-family:'Courier New', Courier, monospace;
     font-size: 3rem;
     font-weight: 400;
+    background-color: #243665;
 }
 
 h1{
     display: flex;
     justify-content: center;
     align-content: center;
+    color: #8BD8BD;
 }
 h6 {
     display: flex;
     justify-content: center;
     align-content: center;
-    color: black;
+    color: white;
 }
 
 
@@ -81,6 +84,6 @@ h6 {
     bottom: 0;
     width: 100%;
     background-color: #243665;
-    color:white;
+    color: white;
     text-align: center;
 }
