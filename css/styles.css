@@ -21,8 +21,9 @@ body{
 a{
     /*No underline*/
     text-decoration: none;
+    margin-right: 25px;
+    margin-left: 25px;
     color: white;
-    /*color: #8BD8BD;*/
 }
 
 p{
@@ -41,16 +42,18 @@ p{
 .social-media {
     font-size: 8rem;
     font-weight: 300;
+    
 }
 
 .nav-list{
-    
     list-style: none;
     width: 100%;
     height: 100%;
+    padding-top: 30px;
     display: flex;
     justify-content: center;
     align-content: center;
+    
 }
 
 li{
