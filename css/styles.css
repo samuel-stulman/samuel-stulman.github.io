@@ -32,6 +32,18 @@ p{
     font-weight: 300;
 }
 
+.profile {
+    display: block;
+    /*margin-top: 15px;*/
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40%;
+    width: 200px;
+    border: 2px solid white;
+    border-top: 3px solid white;
+}
+
 /*Header*/
 .top-nav{
     display: none;
@@ -69,7 +81,7 @@ li{
     font-size: 4rem;
     font-weight: 100;
     background-color: #243665;
-    padding-top: 200px;
+    padding-top: 150px;
 }
 
 h1{
