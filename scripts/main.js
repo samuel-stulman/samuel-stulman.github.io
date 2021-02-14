@@ -1,4 +1,4 @@
-let nav = document.querySelector('profile');
+let myImage = document.querySelector('profile');
 
 myImage.onClick = function() {
     let mrSrc = myImage.getAttribute('src');
