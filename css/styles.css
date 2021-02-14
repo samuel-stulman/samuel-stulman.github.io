@@ -63,6 +63,11 @@ p{
     display: none;
 }
 
+.nav-list a{
+    list-style-type: none;
+    display: none;
+}
+
 .social-media {
     font-size: 7rem;
     font-weight: 300;

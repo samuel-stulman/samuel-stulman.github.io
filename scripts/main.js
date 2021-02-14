@@ -7,3 +7,7 @@ function change() {
         myImage.src = "images/IMG-2716.JPG";
     }
 }
+
+function navbar() {
+    document.getElementById("nav-list").classList.toggle("show");
+}
