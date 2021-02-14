@@ -61,11 +61,11 @@ p{
 .nav-list{
     list-style-type: none;
     display: none;
+    
 }
 
 .nav-list a{
-    list-style-type: none;
-    display: none;
+    color: red;
 }
 
 .social-media {
