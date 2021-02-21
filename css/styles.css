@@ -108,7 +108,8 @@ ul {
 }
 
 li{
-    /* margin: 0 2rem; */
+    margin: 0 2rem;
+    font-weight: 200;
     color: white;
     display: inline-block;
 }
