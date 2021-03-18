@@ -47,6 +47,22 @@ p{
     color: white;
 }
 
+.about-description{
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-content: center;
+}
+
+.about-description p {
+    padding-top: 2rem;
+    font-size: 4rem;
+    font-weight: 200;
+    /* text-align: center; */
+    color: white;
+}
+
+
 .contact-beg p {
     padding-top: 10rem;
     font-size: 4rem;
