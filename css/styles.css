@@ -48,14 +48,15 @@ p{
 }
 
 .about-description{
-    margin-left: 175px;
-    margin-right: 175px;
+    margin-left: 10em;
+    margin-right: 10em;
     justify-content: center;
     align-content: center;
 }
 
 .about-description p {
     padding-top: 2rem;
+    padding-bottom: 10rem;
     font-size: 3rem;
     font-weight: 200;
     /* text-align: center; */
