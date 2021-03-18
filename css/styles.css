@@ -48,17 +48,17 @@ p{
 }
 
 .about-description{
-    margin-left: 10em;
-    margin-right: 10em;
+    margin-left: 15em;
+    margin-right: 15em;
     justify-content: center;
     align-content: center;
 }
 
 .about-description p {
     padding-top: 2rem;
-    padding-bottom: 10rem;
+    padding-bottom: 5rem;
     font-size: 3rem;
-    font-weight: 200;
+    font-weight: 100;
     /* text-align: center; */
     color: white;
 }
@@ -206,4 +206,9 @@ h6 {
     color: white;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.copyright p{
+    font-size: 2rem;
+    font-weight: lighter;
 }
