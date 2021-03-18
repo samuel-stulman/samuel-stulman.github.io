@@ -106,14 +106,15 @@ p{
 }
 
 a.nav-link {
-    font-size: 4rem;
+    font-size: 3rem;
     padding: 0rem;
+    font-weight: 100;
 }
 
 
 .nav-list{
     list-style-type: none;
-    font-size: 1px;
+    font-size: 1rem;
     /* display: none; */
     font-weight: 100;
     justify-content: center;
@@ -163,7 +164,7 @@ li {
     font-size: 4rem;
     font-weight: 100;
     background-color: #243665;
-    padding-top: 75px;
+    padding-top: 50px;
 }
 
 h1{
