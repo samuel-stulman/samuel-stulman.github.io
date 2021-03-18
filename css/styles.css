@@ -48,8 +48,8 @@ p{
 }
 
 .about-description{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 175px;
+    margin-right: 175px;
     justify-content: center;
     align-content: center;
 }
