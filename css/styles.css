@@ -14,7 +14,7 @@ html{
 body{
     width: 100%;
     height: 100%;
-    background-color: #007CC7;
+    background-color: white;
 }
 
 a{
@@ -22,7 +22,7 @@ a{
     text-decoration: none;
     margin-right: 25px;
     margin-left: 25px;
-    color: white;
+    color: #d8dfee;
 }
 
 p{
@@ -110,6 +110,9 @@ a.nav-link {
     font-weight: 100;
 }
 
+.top-nav {
+    background-color: #ABA8A9;
+}
 
 .nav-list{
     list-style-type: none;
@@ -118,6 +121,7 @@ a.nav-link {
     font-weight: 100;
     justify-content: center;
     align-content: center;
+    background-color: #ABA8A9;
 }
 
 
@@ -201,8 +205,8 @@ h6 {
     left: 0;
     bottom: 0;
     width: 100%;
-    /* background-color: #243665; */
-    color: white;
+    background-color: #ABA8A9;
+    color: #d8dfee;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
