@@ -88,6 +88,7 @@ p{
     width: 200px;
     border: 2px solid white;
     border-top: 3px solid white;
+    box-shadow: 5px 5px;
 }
 
 .navbar-toggle {
@@ -172,33 +173,11 @@ li {
     padding-top: 50px;
 }
 
-h1{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
-    color: white;
+.intro{
+    color: black;
     font-weight: lighter;
-}
-
-h5{
-    display: flex;
-    justify-content: center;
-    align-content: center;
     text-align: center;
-    padding-top: 10px;
-    font-weight: lighter;
-    color: white;
-}
-
-h6 {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
-    padding-top: 5px;
-    font-weight: lighter;
-    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /*footer*/
