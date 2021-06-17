@@ -42,7 +42,8 @@ p{
     font-size: 4rem;
     font-weight: 100;
     text-align: center;
-    color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .about-description{
@@ -68,7 +69,7 @@ p{
     font-size: 4rem;
     font-weight: 100;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .contact-beg {
@@ -133,7 +134,6 @@ a.nav-link {
 .social-media {
     font-size: 7rem;
     font-weight: 300;
-    
 }
 
 .social-list{
